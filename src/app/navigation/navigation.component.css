@@ -1,11 +1,8 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
-    text-rendering: optimizeLegibility;
-    font-family: monospace;
+    
 }
-
 
 nav{
     padding:20px;
